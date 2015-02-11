@@ -1,0 +1,19 @@
+== README
+
+This application is to track fuel usage in your automobile
+
+Things you may want to track:
+
+* Amount of fuel used
+
+* Amount spent on fuel
+
+* Mileage over a particular time
+
+* Average MPG
+
+* Total dollars spent on fuel over a given time
+
+* Average fuel used over a given time
+
+* ...
