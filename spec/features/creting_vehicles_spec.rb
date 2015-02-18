@@ -10,7 +10,7 @@ RSpec.feature "Creating Vehicles" do
     fill_in "Make", with: "Chevy"
     fill_in "Model", with: "Colorado"
     fill_in "Year", with: "2006"
-    fill_in "Engine", with: "v6"
+    fill_in "Engine Type", with: "v6"
     click_button "Create Vehicle"
 
     expect(page).to have_content("Vehicle has been created.")
